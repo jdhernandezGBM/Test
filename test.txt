@@ -1,0 +1,25 @@
+
+
+versions compose redis
+standard y entreprise
+
+hperleadger compose
+
+
+query bd
+
+
+/emplo?rev=sdsad
+
+
+wat spec to text como cobra por words o sentences _____ https://cloud.ibm.com/docs/services/speech-to-text?topic=speech-to-text-faq-pricing cobra por minuto
+
+cloud object storage
+
+
+
+ibm cloud functions
+
+chart de helm
+
+
