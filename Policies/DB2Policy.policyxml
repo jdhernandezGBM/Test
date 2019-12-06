@@ -13,10 +13,10 @@
     <connectionUrlFormatAttr4></connectionUrlFormatAttr4>
     <connectionUrlFormatAttr5></connectionUrlFormatAttr5>
     <serverName>ContainerDB2</serverName>
-    <portNumber>500009090</portNumber>
+    <portNumber>50000</portNumber>
     <jarsURL>C:\JAR DB2 CONTENEDOR</jarsURL>
     <databaseSchemaNames>DB2INST1</databaseSchemaNames>
-    <description>NADA</description>
+    <description></description>
     <maxConnectionPoolSize>0</maxConnectionPoolSize>
     <securityIdentity>mydbidentity</securityIdentity>
     <environmentParms></environmentParms>
