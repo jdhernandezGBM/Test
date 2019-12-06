@@ -16,7 +16,7 @@
     <portNumber>50000</portNumber>
     <jarsURL>C:\JAR DB2 CONTENEDOR</jarsURL>
     <databaseSchemaNames>DB2INST1</databaseSchemaNames>
-    <description></description>
+    <description>NADA</description>
     <maxConnectionPoolSize>0</maxConnectionPoolSize>
     <securityIdentity>mydbidentity</securityIdentity>
     <environmentParms></environmentParms>
