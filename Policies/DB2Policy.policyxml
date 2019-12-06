@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <policies>
   <policy policyType="JDBCProviders" policyName="DB2Policy" policyTemplate="DB2_91_Windows">
-    <databaseName>docker01___JIJIJJI</databaseName>
+    <databaseName>docker01___JIJIJJI_DAVID</databaseName>
     <databaseType>DB2 Universal Database</databaseType>
     <databaseVersion>10.6</databaseVersion>
     <type4DriverClassName>com.ibm.db2.jcc.DB2Driver</type4DriverClassName>
